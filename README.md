@@ -3,6 +3,7 @@ A classical Reader-Writer Problem is a situation where a data structure can be r
  # For Ubuntu 
  use these commands in terminal for compilation.
  # How to compile this code:
-   $ gcc rw.c_solution o rw_solution -lpthread
+   $ gcc rw.c o rw -lpthread
  # how to run this code:
-  $ ./rw_solution
+  $ ./rw
+  
